@@ -13,4 +13,4 @@ script:
     - docker run -r CI=true youn7054/docker-react npm run test  --  --coverage
 
 after_success:
-  - echo "test successa"
+  - echo "test successabbb"
